@@ -97,6 +97,9 @@ lib/warn-on-use.h
 m4/.cvsignore
 m4/.gitignore
 stamp-h1
-validation/*.got
-validation/*.diff
-
+validation/*.c.output.expected
+validation/*.c.output.got
+validation/*.c.output.diff 
+validation/*.c.error.got 
+validation/*.c.error.got
+validation/*.c.error.diff
